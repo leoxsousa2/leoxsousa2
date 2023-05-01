@@ -4,6 +4,7 @@
 - 🌱 Atualmente estou aprendendo MatLab, Python, HTML e CSS
 - 👯 Estou procurando colaborar em projetos open source
 - 📫 Contato: leoxsousa2@gmail.com
+- 👨‍💻 Website: https://leoxsousa2.github.io/website
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
